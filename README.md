@@ -64,8 +64,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Workspace-AF&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Workspace-AF&theme=radical&hide_border=false" alt="GitHub Streaks" />
+  <br>
+</p>  
 
 
 ## 👀 Profile Visitor Count
