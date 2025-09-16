@@ -72,7 +72,7 @@
 
 ## 👀 Profile Visitor Count
 
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Visitor%20count-informational)
 
 
 
