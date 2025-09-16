@@ -72,9 +72,7 @@
 
 ## 👀 Profile Visitor Count
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Workspace-AF/count.svg?" alt="Profile Counter" />
-</div>
+
 
 
 
