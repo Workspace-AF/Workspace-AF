@@ -72,7 +72,8 @@
 
 ## 👀 Profile Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR-GITHUB-USERNAME/count.svg)
+![Profile Visitor Count](https://profile-counter.glitch.me/YOUR-GITHUB-USERNAME/count.svg)
+
 
 
 
